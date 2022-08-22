@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>File Upload Status</h1>
+<h2>file upload status check</h2>
 
 Status:  ${message}
 
